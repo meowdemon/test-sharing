@@ -29,8 +29,7 @@ export const Background = () => {
         </TwitterShareButton>
         <FacebookShareButton
           url="https://humandesignweb.com/"
-          hashtag="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet amet quia inventore exercitationem incidunt. Asperiores magnam aperiam minima est veritatis?
-"
+          hashtag="Это хэштег, у него есть ограничение на количество символов"
         >
           <FacebookIcon />
         </FacebookShareButton>
